@@ -1,0 +1,81 @@
+/*
+    Colors and styles on cards are from bootstrap
+
+    colors:
+    https://getbootstrap.com/docs/4.5/getting-started/theming/#css-variables
+
+    cards:
+    https://getbootstrap.com/docs/4.5/components/card/
+*/
+
+.card {
+  margin-bottom: 25px;
+  border-color: var(--secondary);
+  max-width:40rem;
+  min-width:30rem;
+  
+}
+
+.card-header{
+  background-color: var(--secondary);
+  color: var(--white);
+}
+
+.divider {
+  border-color: var(--primary);
+  background-color: var(--primary);
+  text-align: center;
+}
+
+h1{
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+
+.media{
+  padding: 5rem;
+  margin-top:10rem;
+  border-radius:8px;
+box-shadow: 1px 1px 15px grey;
+  
+
+}
+
+td a {
+  color: rgb(255,100,168);
+  font-weight: 700;
+  font-size: x-large;
+  text-decoration: none;
+}
+
+td a:hover{
+ color: rgb(170, 94, 139);
+ text-decoration: none;
+}
+
+.hh{
+  color:rgb(255,100,168);
+}
+
+.mediainfo{
+  background: rgb(125, 131, 141);
+  padding:2rem;
+  border-radius:8px;
+  margin-bottom:2rem;
+  text-align:center;
+  
+}
+div.sticky {
+ 
+  top: 10rem;
+  background: linear-gradient(193deg, rgba(255,100,168,1) 0%, rgba(255,192,192,1) 53%, rgba(254,253,253,1) 100%);
+  padding: 50px;
+  font-size: 20px;
+  margin-left: 5rem;
+  min-width:40rem;
+  border-radius:8px;
+  color:rgb(95, 95, 95);
+  border-radius:8px;
+box-shadow: 1px 1px 15px grey;
+}
+

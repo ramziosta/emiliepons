@@ -1,0 +1,58 @@
+.fa {
+  font-size: 3rem;
+  width: 5rem;
+  text-align: center;
+  text-decoration: none;
+  margin: 15px 55px;
+  
+}
+
+.fa:hover {
+  opacity: 0.7;
+}
+
+.fa-facebook {
+  color: #3b5998;
+}
+
+.fa-twitter {
+  color: #55acee;
+}
+
+.fa-envelope{
+  color: #fd2306;
+  
+}
+
+.fa-linkedin {
+  color: #007bb5;
+}
+
+.fa-youtube {
+  background: #bb0000;
+}
+
+.fa-instagram {
+  color: #e770ce;
+}
+.contact {
+  padding-top: 15rem;
+  text-align: center;
+}
+.navbar {
+  height: 10rem;
+}
+.links > a {
+  margin-top: 8rem;
+  font-size: 5rem;
+  
+}
+
+.connectTitle{
+  background:rgb(255,100,168);
+  color:white;
+padding: 2rem;
+font-size:1.5rem;
+border-radius:8px;
+box-shadow: 1px 1px 15px grey;}
+}

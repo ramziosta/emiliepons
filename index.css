@@ -1,0 +1,68 @@
+
+.navbar{
+  max-height:8rem;
+}
+  
+  .pro{
+    display:flex;
+    justify-content: space-around;
+    margin-top: 15rem;
+    
+    
+  }
+  .propic{
+    max-width:300px;
+    border: 4px solid  rgb(247, 147, 190);
+    width: max-content;
+    border-radius:6px;
+    box-shadow: 1px 10px 15px grey;;
+    
+   
+    }
+  .profile{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10rem;
+    height: 25rem;
+  }
+  .hero{
+    margin-top:3rem;
+  }
+  .contact{
+      margin-top:1rem;
+  }
+  
+  .featured{
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 18rem;
+    margin-bottom:1rem;
+    padding:2rem;
+    font-size: 5rem;
+    color:rgb(83, 83, 83);;
+  }
+  .featuredIn{
+    margin-bottom: 10rem;
+    font-size: 6rem;
+    text-align: center;
+    background: rgb(255,100,168);
+    background: linear-gradient(193deg, rgba(255,100,168,1) 0%, rgba(255,192,192,1) 53%, rgba(254,253,253,1) 100%);
+    letter-spacing:0.5rem;
+    color: rgb(88, 88, 88);
+    border-radius:6px;
+    box-shadow: 0px 10px 15px grey;
+    
+  }
+  
+  .featuredImage{
+    min-width: 100px;
+    max-width:140px;
+    margin: .5rem;
+    filter: grayscale(100%);  
+  }
+  
+ .featuredimages{
+   text-align:center;
+ } 
