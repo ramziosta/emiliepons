@@ -4,7 +4,6 @@
   text-align: center;
   text-decoration: none;
   margin: 15px 55px;
-  
 }
 
 .fa:hover {
@@ -19,9 +18,11 @@
   color: #55acee;
 }
 
-.fa-envelope{
+.fa-envelope {
   color: #fd2306;
-  
+}
+.fa-envelope:hover {
+  color: #991403;
 }
 
 .fa-linkedin {
@@ -45,14 +46,28 @@
 .links > a {
   margin-top: 8rem;
   font-size: 5rem;
-  
 }
 
-.connectTitle{
-  background:rgb(255,100,168);
-  color:white;
-padding: 2rem;
-font-size:1.5rem;
-border-radius:8px;
-box-shadow: 1px 1px 15px grey;}
+.connectTitle {
+  color: rgba(255, 100, 168, 1);
+  border: 3px solid rgb(255, 100, 168);
+  padding: 2rem;
+  font-size: 2rem;
+  border-radius: 8px;
+  box-shadow: 4px 4px 15px grey;
+  text-decoration: none;
+  font-weight: 800;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.connectTitle:hover {
+  background: rgb(190, 99, 138);
+  border: 3px solid rgb(190, 99, 138);
+  color: white;
+}
+
+.contactme {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
 }

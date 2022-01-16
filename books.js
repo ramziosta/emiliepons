@@ -6,7 +6,7 @@ class Book extends HTMLElement {
 
     set book(book){
         this.innerHTML = `
-            <div class="card">
+            <div class="card" id="${book.id}">
               <h1 class="card-header ">${book.title}</h1>
               <div class="card-body">
                 <h5 class="hh">${book.publisher}</h5>
@@ -36,6 +36,7 @@ class Book extends HTMLElement {
                             <td class="text-secondary font-weight-bold"></td>
                             <td><a href="${book.website}">Full story</a></td>
                         </tr>
+                      
                     </table>
                     </p>
               </div>
@@ -47,3 +48,8 @@ class Book extends HTMLElement {
 
 // Define the new element
 customElements.define('mit-book', Book);
+
+{/* <tr>
+<td class="text-secondary "><span id="isbn" class="isbn">${book.isbn}</span></td>
+<td></td>
+</tr> */}

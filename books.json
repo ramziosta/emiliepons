@@ -1,11 +1,11 @@
 {
   "books": [
     {
-      "isbn": "#",
+      "isbn": "37",
       "title": "A taste of the Habibi Festival",
       "subtitle": "",
       "author": "Emilie Pons",
-      "published": "Nov. 8, 2021 ",
+      "published": "November 8, 2021 ",
       "publisher": "The World, on PRI",
       "pages": 1,
       "description": "The Public Theater in New York has been presenting the first Habibi Festival of contemporary Arabic music. Host Marco Werman offers one example of the performing artists: Alsarah and the Nubatones, featuring a song frontwoman Alsarah wrote in 2019 in solidarity with fellow Sudanese protesting for democracy.",
@@ -13,11 +13,12 @@
     },
 
     {
-      "isbn": "#",
+      "id":"36",
+      "isbn": "36",
       "title": "Jordanian musicians worry that their national orchestra could be shuttered",
       "subtitle": "",
       "author": "Emilie Pons",
-      "published": "Oct. 8, 2021",
+      "published": "October 8, 2021",
       "publisher": "The World, on PRI",
       "pages": 1,
       "description": "COVID-19 has been hard for artists and musicians around the world as clubs, concert venues and opera houses shut down.But in Jordan, it’s been especially detrimental — the country’s only symphonic orchestra was already in trouble financially, and may be shuttered permanently.",
@@ -25,11 +26,11 @@
     },
 
     {
-      "isbn": "#",
+      "isbn": "35",
       "title": "Coronavirus is changing the music industry, as long as musicians survive",
       "subtitle": "",
       "author": "Emilie Pons",
-      "published": "April 16 2021",
+      "published": "April 16, 2021",
       "publisher": "TRT World",
       "pages": 1,
       "description": "The ritualistic music scene has come to a halt. Online shows are trying to change the market dynamics, but its festive aspect of listening to live music is at stake.",
@@ -37,11 +38,11 @@
     },
    
     {
-      "isbn": "#",
+      "isbn": "34",
       "title": "'I Silenti' gives a voice to those who died in the Romani genocide",
       "subtitle": "",
       "author": "Emilie Pons",
-      "published": "Feb. 4, 2021 ",
+      "published": "February 4, 2021 ",
       "publisher": "The World, on PRI",
       "pages": 1,
       "description": "The performance piece features musician Tcha Limberger, who is Roma, and pays homage to the hundreds of thousands who died in the Romani genocide during the Holocaust, whose stories often go untold.",
@@ -49,11 +50,11 @@
     },
 
     {
-      "isbn": "#",
+      "isbn": "33",
       "title": "An Iraqi artist fights a lone battle to save the traditional Maqam",
       "subtitle": "",
       "author": "Emilie Pons",
-      "published": "Dec. 21 2020",
+      "published": "December 21, 2020",
       "publisher": "TRT World",
       "pages": 1,
       "description": "The musical form, which resonated for hundreds of years in Iraq, is now on the edge of a precipice but Hamid al Saadi has taken a journey to save it from extinction.",
@@ -61,7 +62,7 @@
     },
 
     {
-      "isbn": "#",
+      "isbn": "32",
       "title": "Travel takes on new meaning in this jazz pianist’s latest album",
       "subtitle": "",
       "author": "Emilie Pons",
@@ -73,11 +74,11 @@
     },
 
     {
-      "isbn": "#",
+      "isbn": "31",
       "title": "A Syrian rock band finds an audience in Lebanon",
       "subtitle": "",
       "author": "Emilie Pons",
-      "published": "Jul. 8, 2020",
+      "published": "July 8, 2020",
       "publisher": "The World, on PRI",
       "pages": 1,
       "description": "We meet members of the Syrian rock band Tanjaret Daghet. The trio fled the civil war in Syria almost a decade ago and has achieved success in Lebanon. But now, the members of the group are ready to move on.",
@@ -85,11 +86,11 @@
     },
 
     {
-      "isbn": "#",
+      "isbn": "30",
       "title": "Kurdish music as protest",
       "subtitle": "",
       "author": "Emilie Pons, Reese Erlich",
-      "published": "Nov. 29 2019",
+      "published": "November 29, 2019",
       "publisher": "DW",
       "pages": 1,
       "description": "Reese Erlich and Emilie Pons discovered, that conflict is reflected in Kurdish music, which has a long history of documenting their struggle.",
@@ -97,11 +98,11 @@
     },
 
     {
-      "isbn": "#",
+      "isbn": "29",
       "title": "Anti-classist Turkish jazz",
       "subtitle": "",
       "author": "Emilie Pons, Reese Erlich",
-      "published": "Nov. 22 2019",
+      "published": "November 22, 2019",
       "publisher": "DW",
       "pages": 1,
       "description": "A crossroads of European, Middle Eastern and Asian cultures, Turkey's music scene is a unique cultural melting pot. Jazz musician Okay Temiz has been at the forefront of this eclecticism for many years, credited with creating fusion jazz.",
@@ -113,7 +114,7 @@
       "title": "An Invisible Wall",
       "subtitle": "",
       "author": "Emilie Pons , Irem Karakaya",
-      "published": "Nov. 2019",
+      "published": "November, 2019",
       "publisher": "Chamber Music Magazine",
       "pages": 1,
       "description": "For many international musicians, traveling to and performing in the U.S. has become prohibitively complex.",
@@ -121,11 +122,11 @@
     },
 
     {
-      "isbn": "#",
+      "isbn": "28",
       "title": "Lila Downs concert at SummerStage",
       "subtitle": "",
       "author": "Emilie Pons",
-      "published": "August 16 2019",
+      "published": "August 16, 2019",
       "publisher": "LatinLover",
       "pages": 1,
       "description": "The Mexican-American singer thrilled the Puebla York, LatinX and Nuevo York crowd with an extraordinarily entertaining show.",
@@ -133,11 +134,11 @@
     },
 
     {
-      "isbn": "#",
+      "isbn": "27",
       "title": "Jazz in Marciac: Attractive Sounds in an Attractive Place",
       "subtitle": "",
       "author": "Emilie Pons",
-      "published": "April 25 2019",
+      "published": "April 25, 2019",
       "publisher": "Jazztimes",
       "pages": 1,
       "description": "Reports from jazz festival in the south of France",
@@ -145,7 +146,7 @@
     },
 
     {
-      "isbn": "#",
+      "isbn": "26",
       "title": "Chavela Vargas was a ‘revolutionary’ who ushered in a new ranchera style",
       "subtitle": "",
       "author": "Emilie Pons",
@@ -157,11 +158,11 @@
     },
 
     {
-      "isbn": "#",
+      "isbn": "25",
       "title": "Eclectic Montreal Jazz Festival strikes again",
       "subtitle": "",
       "author": "Emilie Pons, Reese Erlich",
-      "published": "July 19 2018",
+      "published": "July 19, 2018",
       "publisher": "LatinLover",
       "pages": 1,
       "description": "The Montreal Jazz Festival is thriving after 39 years, because several elements are in place to maintain its strength.",
@@ -169,11 +170,11 @@
     },
 
     {
-      "isbn": "#",
+      "isbn": "24",
       "title": "Marshall Allen, Spirit Awakened",
       "subtitle": "",
       "author": "Emilie Pons",
-      "published": "Sept. 2017 ",
+      "published": "September, 2017 ",
       "publisher": "New York City Jazz Record",
       "pages": 1,
       "description": "Nothing happens the way you would expect during a Sun Ra Arkestra performance. The musicians play from the heart and spirit, says 93-year-old jazz master saxophonist Marshall Allen, who leads the legendary Sun Ra Arkestra",
@@ -181,11 +182,11 @@
     },
 
     {
-      "isbn": "#",
+      "isbn": "23",
       "title": "Pair successfully directs 'Chavela' the story of an idiosyncratic star",
       "subtitle": "",
       "author": "Emilie Pons",
-      "published": "April 19 2017",
+      "published": "April 19, 2017",
       "publisher": "LatinLover",
       "pages": 1,
       "description": "Mexican singer Chavela Vargas, who embodies utter simplicity and utmost complexity at the same time?  This is what filmmakers Catherine Gund and Daresha Kyi achieved with their documentary Chavela.",
@@ -193,11 +194,11 @@
     },
 
     {
-      "isbn": "#",
+      "isbn": "22",
       "title": "What We Loved At Winter Jazzfest 2016",
       "subtitle": "",
       "author": "Emilie Pons",
-      "published": "Jan. 20 2016",
+      "published": "January 20, 2016",
       "publisher": "NPR",
       "pages": 1,
       "description": "Winter Jazzfest's expansion has changed its aftertaste somewhat — this year's significantly greater geographic distribution spread out the festival's crowds across a wider swath of territory",
@@ -205,11 +206,11 @@
     },
 
     {
-      "isbn": "#",
+      "isbn": "21",
       "title": "Costa Rican capital stars in composer’s musical odyssey",
       "subtitle": "",
       "author": "Emilie Pons",
-      "published": "August 7 2015",
+      "published": "August 7, 2015",
       "publisher": "The Tico Times",
       "pages": 1,
       "description": "An interesting composition by trumpet player Etienne Charles.",
@@ -217,11 +218,11 @@
     },
 
     {
-      "isbn": "#",
+      "isbn": "20",
       "title": "Super Mambo",
       "subtitle": "",
       "author": "Emilie Pons",
-      "published": "July 1st 2015",
+      "published": "July 1, 2015",
       "publisher": "The Tico Times",
       "pages": 1,
       "description": "Costa Rican vibraphonist Felipe Fournier, pays tribute to Tito Puente at New York City Blue Note Jazz Festival.",
@@ -229,11 +230,11 @@
     },
 
     {
-      "isbn": "#",
+      "isbn": "19",
       "title": "Salsa Stars Remember The Good Old Days",
       "subtitle": "",
       "author": "Emilie Pons",
-      "published": "June 18 2014",
+      "published": "June 18, 2014",
       "publisher": "Hunts Point Express",
       "pages": 1,
       "description": "Latino musicians reminisced about the South Bronx’s heyday as the epicenter of the city’s salsa explosion.",
@@ -241,11 +242,11 @@
     },
 
     {
-      "isbn": "#",
+      "isbn": "18",
       "title": "Exhibit Highlights girls forced into marriage",
       "subtitle": "",
       "author": "Emilie Pons",
-      "published": "February 17 2014",
+      "published": "February 17, 2014",
       "publisher": "Mott Haven Herald",
       "pages": 1,
       "description": "An exhibit of the work of Pulitzer-Prize winning photographer Stephanie Sinclair in Melrose highlights the stark realities faced by young women who are married off to much older men in countries around the world.",
@@ -253,11 +254,11 @@
     },
 
     {
-      "isbn": "#",
+      "isbn": "17",
       "title": "Artists Add Color to Two Bronx Neigbourhoods",
       "subtitle": "",
       "author": "Emilie Pons",
-      "published": "October 3rd 2013",
+      "published": "October 3, 2013",
       "publisher": "Mott Haven Herald",
       "pages": 1,
       "description": "Mott Haven and Hunts Point are the canvas for two new arts projects.",
@@ -265,11 +266,11 @@
     },
 
     {
-      "isbn": "#",
+      "isbn": "16",
       "title": "TONICA",
       "subtitle": "",
       "author": "Emilie Pons",
-      "published": "Aug. 18 2013",
+      "published": "August 18, 2013",
       "publisher": "AllAboutJazz",
       "pages": 1,
       "description": "Jazz freaks exist everywhere, Mexico included. Although Guadalajara has no official jazz club, it does have TONICA.",
@@ -277,11 +278,11 @@
     },
 
     {
-      "isbn": "#",
+      "isbn": "15",
       "title": "Michel Petrucciani",
       "subtitle": "",
       "author": "Emilie Pons",
-      "published": "Oct. 30 2012",
+      "published": "October 30, 2012",
       "publisher": "NPR",
       "pages": 1,
       "description": "The 'Mischievous Elf' Of The Piano.",
@@ -289,11 +290,11 @@
     },
 
     {
-      "isbn": "#",
+      "isbn": "14",
       "title": "Amadou And Mariam",
       "subtitle": "",
       "author": "Emilie Pons",
-      "published": "Aug. 4 2012",
+      "published": "August 4, 2012",
       "publisher": "AllAboutJazz",
       "pages": 1,
       "description": "There is something magical and unusual about seeing two talented blind singers perform together on stage in front of a huge crowd in Central Park.",
@@ -301,11 +302,11 @@
     },
 
     {
-      "isbn": "#",
+      "isbn": "13",
       "title": "Conrad Herwig Quintet",
       "subtitle": "",
       "author": "Emilie Pons",
-      "published": "July 25 2012",
+      "published": "July 25, 2012",
       "publisher": "AllAboutJazz",
       "pages": 1,
       "description": "The Blue Note shows were advertised as 'The Latin Side of Joe Henderson.'",
@@ -313,11 +314,11 @@
     },
 
     {
-      "isbn": "#",
+      "isbn": "12",
       "title": "Ruben Blades: Live at NJPAC",
       "subtitle": "",
       "author": "Emilie Pons",
-      "published": "Nov. 4 2011",
+      "published": "November 4, 2011",
       "publisher": "Jazztimes",
       "pages": 1,
       "description": "Report on performance by noted Panamanian singer/songwriter at NewJersey Performing Arts Center on Friday November 4th, 2011",
@@ -325,11 +326,11 @@
     },
 
     {
-      "isbn": "#",
+      "isbn": "11",
       "title": "Henry Threadgill opens at the new Roulette ",
       "subtitle": "",
       "author": "Emilie Pons",
-      "published": "September 15 2011",
+      "published": "September 15, 2011",
       "publisher": "The Jazz Institute of Chicago",
       "pages": 1,
       "description": "Idiosyncratic figure Henry Threadgill, a Chicago native,performed with his sextet Zooid at the new Roulette location, in Brooklyn",
@@ -337,11 +338,11 @@
     },
 
     {
-      "isbn": "#",
+      "isbn": "10",
       "title": "Angelique Kidjo, Dianne Reeves and Lizz Wright in Newark, N.J.",
       "subtitle": "",
       "author": "Emilie Pons",
-      "published": "Sept. 2011 ",
+      "published": "September, 2011 ",
       "publisher": "Jazztimes",
       "pages": 1,
       "description": "Three singers mesmerize an audience with stellar performances and “The Truth”",
@@ -349,11 +350,11 @@
     },
 
     {
-      "isbn": "#",
+      "isbn": "9",
       "title": "Japan Benefit Concert At The Village Vanguard",
       "subtitle": "",
       "author": "Emilie Pons",
-      "published": "April 16 2011",
+      "published": "April 16, 2011",
       "publisher": "AllAboutJazz",
       "pages": 1,
       "description": "A collaboration between Migiwa Miyajima and Sixteen As One Music Inc.'",
@@ -361,11 +362,11 @@
     },
 
     {
-      "isbn": "#",
+      "isbn": "8",
       "title": "Bruce Barth Trio",
       "subtitle": "",
       "author": "Emilie Pons",
-      "published": "March 3rd 2011",
+      "published": "March 3, 2011",
       "publisher": "AllAboutJazz",
       "pages": 1,
       "description": "Delighted an audience of jazz aficionados, gathered for a lovely CD release party",
@@ -373,11 +374,11 @@
     },
 
     {
-      "isbn": "#",
+      "isbn": "7",
       "title": "Panama Jazz Festival",
       "subtitle": "",
       "author": "Emilie Pons",
-      "published": "January 10th 2011",
+      "published": "January 10, 2011",
       "publisher": "AllAboutJazz",
       "pages": 1,
       "description": "The Danilo Pérez Foundation brings musicians from France, Boston and New York, as well as young Panamanian, Chilean, Argentinian, Mexican or Colombian jazz musicians",
@@ -385,11 +386,11 @@
     },
 
     {
-      "isbn": "#",
+      "isbn": "6",
       "title": "A feast for all",
       "subtitle": "",
       "author": "Emilie Pons",
-      "published": "September 2008",
+      "published": "September, 2008",
       "publisher": "The Jazz Institute of Chicago",
       "pages": 1,
       "description": "Abbey Lincoln at the Montreal's In ternational Jazz Festival",
@@ -397,11 +398,11 @@
     },
 
     {
-      "isbn": "#",
+      "isbn": "5",
       "title": "Fest ready for ‘Standoff’",
       "subtitle": "",
       "author": "Emilie Pons",
-      "published": "August 22 2006",
+      "published": "August 22, 2006",
       "publisher": "Variety",
       "pages": 1,
       "description": "The cast of new Fox drama “Standoff” will join the New York Television Festival for a special screening of the pilot on Sept. 16.",
@@ -409,11 +410,11 @@
     },
 
     {
-      "isbn": "#",
+      "isbn": "4",
       "title": "Sexy ‘South’ slowly sizzles",
       "subtitle": "",
       "author": "Emilie Pons",
-      "published": "August 12 2006",
+      "published": "August 12, 2006",
       "publisher": "Variety",
       "pages": 1,
       "description": "Even with a healthy dollop of publicity, releasing foreign films remains a delicate business. But Shadow Distribution, a tiny releasing outfit in Waterville, Maine, has found it’s worth it to nurture a long, slow release for pic like “Heading South” — even one that opens in the middle of summer blockbuster season",
@@ -421,11 +422,11 @@
     },    
 
     {
-      "isbn": "#",
+      "isbn": "3",
       "title": "‘Brothers’ reborn",
       "subtitle": "",
       "author": "Emilie Pons",
-      "published":"July 26 2006",
+      "published":"July 26, 2006",
       "publisher":"Variety",
       "pages": 1,
       "description":"Helmers' take new turn with tome",
@@ -433,11 +434,11 @@
     },
 
     {
-      "isbn": "#",
+      "isbn": "2",
       "title": "Shark Week gets PR blitz",
       "subtitle": "",
       "author": "Emilie Pons",
-      "published": "July 16 2006",
+      "published": "July 16, 2006",
       "publisher": "Variety",
       "pages": 1,
       "description": "Discovery puts teeth in marketing campaign",
@@ -445,11 +446,11 @@
     },
 
     {
-      "isbn": "#",
+      "isbn": "1",
       "title": "Mayor gives extra credit",
       "subtitle": "",
       "author": "Emilie Pons",
-      "published": "July 11 2006 ",
+      "published": "July 11, 2006 ",
       "publisher": "Variety",
       "pages": 1,
       "description": "Bloomberg extends Gotham tax program",
